@@ -1,3 +1,5 @@
+[[ condition1 && condition2 ]]
+
 read -p "Enter your num: " num
 
 if [[ $num -ge 0 && $num -le 12 ]];
